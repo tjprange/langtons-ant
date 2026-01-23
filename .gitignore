@@ -1,0 +1,15 @@
+# root ignore
+/.vscode
+/.github
+
+# client ignore
+**/node_modules
+**/dist
+client/package-lock.json
+**/.angular
+.env
+
+# server ignore
+**/bin
+**/obj
+
